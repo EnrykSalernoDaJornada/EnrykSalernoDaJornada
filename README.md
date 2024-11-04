@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :black_nib:
 
 My name is Enryk Salerno, I am a Front End developer, I am currently creating projects with;
 <br>
