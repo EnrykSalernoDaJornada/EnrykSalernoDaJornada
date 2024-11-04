@@ -1,5 +1,8 @@
 ## Hi there :black_nib:
 
+#### Connect with me: <a target=_blank href="https://www.linkedin.com/in/enryksalernodajornada?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin-logo"  /></a>
+
+
 My name is Enryk Salerno, I am a Front End developer, I am currently creating projects with;
 <br>
 <br>
@@ -11,8 +14,7 @@ My name is Enryk Salerno, I am a Front End developer, I am currently creating pr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnrykSalernoDaJornada)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Connect with me:
 
- <a target=_blank href="https://www.linkedin.com/in/enryksalernodajornada?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin-logo" /></a>
+
 
 
